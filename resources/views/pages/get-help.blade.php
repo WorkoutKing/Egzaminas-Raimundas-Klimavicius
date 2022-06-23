@@ -16,8 +16,8 @@
             <div class="input-group">
             <select name="date" class="form-control">
                 <option value="" selected disabled>--Sort by registration date--</option>
-                <option value="asc">ANSWERED</option>
-                <option value="desc">NOT ANSWERED</option>
+                <option value="asc">NOT ANSWERED</option>
+                <option value="desc">ANSWERED</option>
             </select>
             <input type="submit" class="btn btn-primary" value="Search"/>
             </div>
